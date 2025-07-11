@@ -1,25 +1,9 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=😎Olá,+Seja+bem-vindo!;😎Meu+nome+é+Junior!;🧑‍💻Sou+fundador+do+projeto+MENTE+MAKER🚀)](https://git.io/typing-svg)
 <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DC38&background=000000&center=true&vCenter=true&width=435&lines=Programador+depois+dos+40!" alt="Typing SVG" /></a>
+</p>
 
 ### 😎 **Sobre mim**  
 Olá, sou o **Tiago**, apaixonado por criatidade, tecnologia e inovação. Tirando a ferrugem e batendo a poeira da programação e voltando agora depois dos 40 anos de idade. Explore meus projetos e vamos codar!
-
-<!--🐱CAT-->
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-</p>
-
-<p align="center">
-  <a href="https://youtube.com/@MenteMaker?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/Inscreva--se-no%20YouTube-red?logo=youtube&style=for-the-badge" width="220">
-  </a>
-</p>
-
-![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdHR_M4vqK1rtKo56RMQ9tQ?style=social)
-
-![YouTube Views](https://img.shields.io/youtube/channel/views/UCdHR_M4vqK1rtKo56RMQ9tQ?style=social)
-
 
 ### 🌐 **Minhas Redes Sociais**  
 Fique por dentro das novidades, dicas e conteúdos exclusivos! Acompanhe-me no YouTube, Instagram e Replit para mais interações e projetos:
@@ -52,22 +36,15 @@ Trago uma ampla experiência em diversas tecnologias. Aqui estão algumas das fe
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60" style="margin: 5px;">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60" style="margin: 5px;">
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" style="margin: 5px;">
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="60" style="margin: 5px;">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60" style="margin: 5px;">
   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" style="margin: 5px;">
 </div>
 
 <p align="center">
